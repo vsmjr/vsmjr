@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋! Meu nome é Valdir, seja bem-vindo ao meu Github!</h1>
 
-<p align="center">• 🔭 Sou Analista de Requisitos em Avonale Workplace</p>
+<p align="center">• 🔭 Analista de Requisitos em Avonale Workplace</p>
 <p align="center">• 🖥️ Atualmente estou aprendendo Flutter</p>
 
 
