@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋! Meu nome é Valdir, seja bem-vindo ao meu Github!</h1>
+<h1 align="center">Olá 👋 Meu nome é Valdir!</h1>
 
 <p align="center">• 🔭 Analista de Requisitos @ Avonale</p>
 <p align="center">• 🖥️ Atualmente estou aprendendo Flutter</p>
